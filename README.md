@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ganavi 👋
 
-<!--
-**Ganavi2204/Ganavi2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student
 
-Here are some ideas to get you started:
+I'm currently building my foundation in **Data Structures & Algorithms** and exploring **ML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- 📚 Data Structures & Algorithms
+- 💻 C++
+- ML
+  
+## 🛠️ Skills
+
+- **Languages:** C++, java
+- **Core:** Data Structures & Algorithms, OOP
+- **Currently Exploring:** ML
+
+## 🎯 Goals
+
+- Strengthen my DSA fundamentals
+- Build meaningful projects
+- Learn cloud technologies
+- Continuously improve my technical skills
